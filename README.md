@@ -31,7 +31,7 @@ This portfolio showcases my academic and personal projects in embedded systems, 
 An STM32-based autonomous robot that moves in an octagon pattern.
 
 - Controlled using USART1 (UART communication)
-- Implemented movement logic using HAL in `main.c`
+- Implemented movement logic 
 - Calibrated wheel speed and turning radius
 - **Tech Used**: STM32F103, C, UART, PWM, STM32CubeIDE
 
