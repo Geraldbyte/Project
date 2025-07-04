@@ -38,11 +38,11 @@ An STM32-based autonomous robot that moves in an octagon pattern.
 ---
 
 ### 🔵 [ROS Square Mover]
-A ROS (Melodic) script for TurtleBot3 to navigate in a square using `geometry_msgs/Twist`.
+A ROS (Melodic) script for TurtleBot3 to navigate in a square 
 
 - Used ROS publisher node to issue velocity commands
 - Debugged using `rostopic echo` and `rqt_graph`
-- **Tech Used**: ROS Noetic, Python, Gazebo, TurtleBot3
+- **Tech Used**: ROS Melodic, Python, Gazebo, TurtleBot3
 
 ---
 
