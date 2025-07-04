@@ -37,22 +37,13 @@ An STM32-based autonomous robot that moves in an octagon pattern.
 
 ---
 
-### 🔵 [ROS Square Mover]
-A ROS (Melodic) script for TurtleBot3 to navigate in a square 
+### 🔵 [LIMO Robot]
+A ROS (Melodic) script for LIMO to navigate (https://github.com/Geraldbyte/LIMO.git)
 
-- Used ROS publisher node to issue velocity commands
-- Debugged using `rostopic echo` and `rqt_graph`
+- Create ROS launch files and configuration for autonomous navigation
+- Tested and debugged motion models in simulation (Gazebo) and real-world
 - **Tech Used**: ROS Melodic, Python, Gazebo, TurtleBot3
-
----
-
-### 🟡 [Obstacle Avoiding Car (Arduino)]
-An autonomous car that uses an ultrasonic sensor to avoid obstacles.
-
-- Coded in Arduino IDE using `NewPing` library
-- Implemented logic to stop/turn based on distance threshold
-- **Tech Used**: Arduino Uno, HC-SR04, Servo, Motor Driver
-
+  
 ---
 
 ## 🏆 Achievements & Certifications
