@@ -19,7 +19,7 @@ This portfolio showcases my academic and personal projects in embedded systems, 
 | Category          | Tools & Languages                             |
 |------------------|-----------------------------------------------|
 | Programming       | C, C++, Python, MATLAB                        |
-| Robotics/Embedded | STM32, Arduino, ROS ( Melodic), UART |
+| Robotics/Embedded | STM32, Arduino, ROS (Melodic), UART |
 | Tools/Platforms   | Git, STM32CubeIDE, SolidWorks, Ubuntu        |
 | Others            | Version control, Debugging, Documentation    |
 
