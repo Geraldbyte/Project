@@ -27,8 +27,8 @@ This portfolio showcases my academic and personal projects in embedded systems, 
 
 ## 📁 Featured Projects
 
-### 🟢 [Octagon Path Robot]
-An STM32-based autonomous robot that moves in an octagon pattern.
+### 🟢 [Line Robot]
+An STM32-based autonomous robot that follows line.
 
 - Controlled using USART1 (UART communication)
 - Implemented movement logic 
